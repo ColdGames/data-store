@@ -1,3 +1,5 @@
 {
-	"verified_servers" : "something1234"
+	"verified_servers" : {
+		"someKey": "someVal" 
+	}
 }
