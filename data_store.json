@@ -1,12 +1,20 @@
 {
-	"verified_servers" : [
-		{
-			"server_id" : "216.19.181.189:7777",
-			"name": "Homestead 1" 
-		},
-		{
-			"server_id" : "45.137.247.18:30821",
-			"name": "g-portal's one"
-		}
-	]
+	"servers": {
+		"verified_servers" : [
+			{
+				"server_id" : "216.19.181.189:7777",
+				"name": "Homestead 1" 
+			},
+			{
+				"server_id" : "45.137.247.18:30821",
+				"name": "g-portal's one"
+			}
+		],
+		"banned_servers" : [
+			{
+				"server_id" : "216.19.181.189:777777777",
+				"name": "Homestead 1" 
+			}
+		]
+	}
 }
