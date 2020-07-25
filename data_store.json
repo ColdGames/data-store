@@ -1,10 +1,11 @@
 {
 	"verified_servers" : [
 		{
-			"server_id" : "qwerty0987654321"
+			"server_id" : "216.19.181.189:7777",
+			"name": "Homestead 1" 
 		},
 		{
-			"server_id" : "90137093812058120",
+			"server_id" : "45.137.247.18:30821",
 			"name": "g-portal's one"
 		}
 	]
