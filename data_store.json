@@ -12,7 +12,7 @@
 		],
 		"banned_servers" : [
 			{
-				"server_id" : "216.19.181.189:7777",
+				"server_id" : "216.19.181.189:7777testbanned",
 				"name": "Homestead 1" 
 			}
 		]
