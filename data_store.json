@@ -16,5 +16,9 @@
 				"name": "Homestead 1" 
 			}
 		]
+	},
+	"server_hosting_service": {
+		"host_name": "gportal",
+		"web_url": "https://www.g-portal.com/"
 	}
 }
