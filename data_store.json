@@ -2,12 +2,40 @@
 	"servers": {
 		"verified_servers" : [
 			{
-				"server_id" : "216.19.181.189:7777",
+				"server_id": "216.19.181.189:7777",
 				"name": "Homestead 1" 
 			},
 			{
-				"server_id" : "176.57.181.148:28600",
-				"name": "g-portal's one"
+				"server_id": "95.156.238.37:27000",
+				"name": "US West #1"
+			},
+			{
+				"server_id": "95.156.238.32:39000",
+				"name": "US West #2"
+			},
+			{
+				"server_id": "134.255.214.88:28000",
+				"name": "US East #1"
+			},
+			{
+				"server_id": "134.255.214.87:30000",
+				"name": "US East #2"
+			},
+			{
+				"server_id": "85.190.149.92:21200",
+				"name": "UK #1"
+			},
+			{
+				"server_id": "80.95.150.46:7777",
+				"name": "Europe #1"
+			},
+			{
+				"server_id": "185.9.105.72:7777",
+				"name": "Europe #2"
+			},
+			{
+				"server_id": "128.0.114.213:20900",
+				"name": "Australia #1"
 			}
 		],
 		"banned_servers" : [
