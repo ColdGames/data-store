@@ -36,6 +36,10 @@
 			{
 				"server_id": "128.0.114.213:20900",
 				"name": "Australia #1"
+			},
+			{
+				"server_id": "103.95.112.113:7777",
+				"name": "The Original Australian Server"
 			}
 		],
 		"banned_servers" : [
