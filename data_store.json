@@ -2,10 +2,6 @@
 	"servers": {
 		"verified_servers" : [
 			{
-				"server_id": "216.19.181.189:7777",
-				"name": "Homestead 1" 
-			},
-			{
 				"server_id": "85.190.157.24:29000",
 				"name": "US West #1"
 			},
