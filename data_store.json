@@ -38,8 +38,12 @@
 				"name": "Australia #1"
 			},
 			{
-				"server_id": "103.95.112.113:7777",
+				"server_id": "103.95.112.202:7777",
 				"name": "The Original Australian Server"
+			},
+			{
+				"server_id": "109.230.243.48:39000",
+				"name": "Subtopia"
 			}
 		],
 		"banned_servers" : [
