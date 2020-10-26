@@ -40,6 +40,10 @@
 			{
 				"server_id": "109.230.243.48:39000",
 				"name": "Subtopia"
+			},
+			{
+				"server_id": "107.158.192.22:7777",
+				"name": "Survival Inc"
 			}
 		],
 		"banned_servers" : [
