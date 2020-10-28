@@ -44,6 +44,10 @@
 			{
 				"server_id": "107.158.192.22:7777",
 				"name": "Survival Inc"
+			},
+			{
+				"server_id": "85.190.157.25:37000",
+				"name": "Hunter Gaming Server"
 			}
 		],
 		"banned_servers" : [
