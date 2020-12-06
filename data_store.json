@@ -56,6 +56,10 @@
 			{
 				"server_id": "195.82.158.112:31000",
 				"name": "(ESP) - Asociacion Espanola Juegos Survival PvP"
+			},
+			{
+				"server_id": "54.36.127.228:7777",
+				"name": "Survive or Die! PVE"
 			}
 		],
 		"banned_servers" : [
