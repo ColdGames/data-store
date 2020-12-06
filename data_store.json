@@ -52,6 +52,10 @@
 			{
 				"server_id": "85.190.157.25:37000",
 				"name": "Hunter Gaming Server"
+			},
+			{
+				"server_id": "195.82.158.112:31000",
+				"name": "(ESP) - Asociacion Espanola Juegos Survival PvP"
 			}
 		],
 		"banned_servers" : [
