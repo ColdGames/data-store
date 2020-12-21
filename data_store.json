@@ -2,11 +2,11 @@
 	"servers": {
 		"verified_servers" : [
 			{
-				"server_id": "85.190.157.24:29000",
+				"server_id": "37.10.125.71:7917",
 				"name": "US West #1"
 			},
 			{
-				"server_id": "85.190.157.24:28000",
+				"server_id": "37.10.125.71:7957",
 				"name": "US West #2"
 			},
 			{
@@ -18,15 +18,15 @@
 				"name": "US East #2"
 			},
 			{
-				"server_id": "45.159.7.40:20900",
+				"server_id": "5.62.127.226:8197",
 				"name": "UK #1"
 			},
 			{
-				"server_id": "80.95.150.46:7777",
+				"server_id": "78.143.39.13:8397",
 				"name": "Europe #1"
 			},
 			{
-				"server_id": "185.9.105.72:7777",
+				"server_id": "78.143.39.13:8417",
 				"name": "Europe #2"
 			},
 			{
