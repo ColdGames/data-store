@@ -60,6 +60,10 @@
 			{
 				"server_id": "148.251.124.233:7777",
 				"name": "Survive or Die! PVE"
+			},
+			{
+				"server_id": "188.194.108.252:4444",
+				"name": "GER-EU-DE Wings of Raven"
 			}
 		],
 		"banned_servers" : [
