@@ -2,35 +2,35 @@
 	"servers": {
 		"verified_servers" : [
 			{
-				"server_id": "37.10.125.71:7917",
+				"server_id": "85.190.156.11:7817",
 				"name": "US West #1"
 			},
 			{
-				"server_id": "37.10.125.71:7957",
+				"server_id": "85.190.156.11:7837",
 				"name": "US West #2"
 			},
 			{
-				"server_id": "109.230.208.81:39000",
+				"server_id": "31.214.128.102:10440",
 				"name": "US East #1"
 			},
 			{
-				"server_id": "134.255.214.87:30000",
+				"server_id": "95.156.198.105:10510",
 				"name": "US East #2"
 			},
 			{
-				"server_id": "5.62.127.226:8197",
+				"server_id": "45.159.7.40:7797",
 				"name": "UK #1"
 			},
 			{
-				"server_id": "78.143.39.13:8397",
+				"server_id": "195.82.158.89:8137",
 				"name": "Europe #1"
 			},
 			{
-				"server_id": "78.143.39.13:8417",
+				"server_id": "195.82.158.112:7877",
 				"name": "Europe #2"
 			},
 			{
-				"server_id": "128.0.114.213:20900",
+				"server_id": "128.0.114.131:10600",
 				"name": "Australia #1"
 			},
 			{
