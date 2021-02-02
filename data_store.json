@@ -60,6 +60,10 @@
 			{
 				"server_id": "24.134.242.69:4444",
 				"name": "GER Schwinge des Raben"
+			},
+			{
+				"server_id": "45.159.7.40:8177",
+				"name": "Comunidad Hispana PVP"
 			}
 		],
 		"banned_servers" : [
