@@ -60,6 +60,10 @@
 			{
 				"server_id": "45.159.7.40:8077",
 				"name": "Comunidad Hispana PVP"
+			},
+			{
+				"server_id": "134.255.240.39:12000",
+				"name": "Scottland-PVE"
 			}
 		],
 		"banned_servers" : [
