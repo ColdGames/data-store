@@ -56,6 +56,10 @@
 			{
 				"server_id": "134.255.240.39:12000",
 				"name": "Scottland-PVE"
+			},
+			{
+				"server_id": "190.190.160.172:7777",
+				"name": "SERVER LATINO EXTREMO PVP-PVE"
 			}
 		],
 		"banned_servers" : [
