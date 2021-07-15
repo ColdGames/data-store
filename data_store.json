@@ -60,6 +60,10 @@
 			{
 				"server_id": "190.190.237.34:7777",
 				"name": "SERVER LATINO EXTREMO PVP-PVE"
+			},
+			{
+				"server_id": "10.1.1.12:7777",
+				"name": "Scallis Gaming"
 			}
 		],
 		"banned_servers" : [
