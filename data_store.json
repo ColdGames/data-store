@@ -68,6 +68,10 @@
 			{
 				"server_id": "10.1.1.12:7788",
 				"name": "Scallis Gaming HC"
+			},
+			{
+				"server_id": "5.101.164.204:8157",
+				"name": "Subsistence RUS"
 			}
 		],
 		"banned_servers" : [
