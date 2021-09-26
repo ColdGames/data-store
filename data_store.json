@@ -2,11 +2,11 @@
 	"servers": {
 		"verified_servers" : [
 			{
-				"server_id": "85.190.156.11:7817",
+				"server_id": "85.190.157.24:8377",
 				"name": "US West #1"
 			},
 			{
-				"server_id": "85.190.156.11:7837",
+				"server_id": "85.190.157.24:7797",
 				"name": "US West #2"
 			},
 			{
