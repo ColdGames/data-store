@@ -68,6 +68,10 @@
 			{
 				"server_id": "195.82.159.153:8077",
 				"name": "Subsistence RUS"
+			},
+			{
+				"server_id": "134.255.240.39:8157",
+				"name": "Couch Window"
 			}
 		],
 		"banned_servers" : [
