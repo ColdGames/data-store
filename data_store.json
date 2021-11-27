@@ -76,6 +76,10 @@
 			{
 				"server_id": "134.255.240.39:8157",
 				"name": "Couch Window"
+			},
+			{
+				"server_id": "37.114.60.103:7777",
+				"name": "GERMAN #1"
 			}
 		],
 		"banned_servers" : [
