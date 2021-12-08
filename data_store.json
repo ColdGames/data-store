@@ -80,6 +80,10 @@
 			{
 				"server_id": "195.82.159.158:8017",
 				"name": "GERMAN #1"
+			},
+			{
+				"server_id": "134.255.240.39:8217",
+				"name": "SCOTTLAND-PVE (U.S. EAST)"
 			}
 		],
 		"banned_servers" : [
