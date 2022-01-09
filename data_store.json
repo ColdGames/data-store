@@ -88,6 +88,10 @@
 			{
 				"server_id": "206.217.202.49:7877",
 				"name": "Wartime Gaming Networks PvP"
+			},
+			{
+				"server_id": "195.82.159.158:8337",
+				"name": "RU.EU 24-7 #1"
 			}
 		],
 		"banned_servers" : [
