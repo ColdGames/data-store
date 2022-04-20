@@ -70,20 +70,12 @@
 				"name": "Subsistence RUS"
 			},
 			{
-				"server_id": "134.255.240.39:8157",
-				"name": "Couch Window"
-			},
-			{
 				"server_id": "109.230.243.48:7917",
 				"name": "SCOTTLAND-PVE (U.S. EAST)"
 			},
 			{
 				"server_id": "206.217.202.49:7877",
 				"name": "Wartime Gaming Networks PvP"
-			},
-			{
-				"server_id": "31.214.224.32:7957",
-				"name": "RU.EU 24-7 #1"
 			}
 		],
 		"banned_servers" : [
