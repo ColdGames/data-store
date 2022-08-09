@@ -46,20 +46,12 @@
 				"name": "GER-EU-DE Wings of Raven 24-7 Online"
 			},
 			{
-				"server_id": "45.159.7.40:7817",
-				"name": "EU PVE ALL WELCOME (normal mode)"
-			},
-			{
 				"server_id": "190.190.238.235:7777",
 				"name": "SERVER LATINO EXTREMO PVP-PVE"
 			},
 			{
 				"server_id": "203.59.39.237:7787",
 				"name": "Scallis Gaming PvE"
-			},
-			{
-				"server_id": "203.59.39.237:7788",
-				"name": "Scallis Gaming HC"
 			},
 			{
 				"server_id": "195.82.159.158:8017",
@@ -72,6 +64,10 @@
 			{
 				"server_id": "206.217.202.49:7877",
 				"name": "Wartime Gaming Networks PvP"
+			},
+			{
+				"server_id": "85.190.157.24:8177",
+				"name": "Hunter Gaming"
 			}
 		],
 		"banned_servers" : [
