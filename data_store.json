@@ -66,8 +66,12 @@
 				"name": "Wartime Gaming Networks PvP"
 			},
 			{
-				"server_id": "85.190.157.24:8177",
+				"server_id": "45.159.7.40:8037",
 				"name": "Hunter Gaming"
+			},
+			{
+				"server_id": "85.190.157.24:8177",
+				"name": "EU PVE ALL WELCOME"
 			}
 		],
 		"banned_servers" : [
