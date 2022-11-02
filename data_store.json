@@ -64,6 +64,10 @@
 			{
 				"server_id": "85.190.157.24:8177",
 				"name": "EU PVE ALL WELCOME"
+			},
+			{
+				"server_id": "85.190.156.11:7917",
+				"name": "nightmares way of life 2"
 			}
 		],
 		"banned_servers" : [
