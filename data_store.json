@@ -42,7 +42,7 @@
 				"name": "Survival Inc"
 			},
 			{
-				"server_id": "24.134.242.69:4444",
+				"server_id": "31.18.147.215:4444",
 				"name": "GER-EU-DE Wings of Raven 24-7 Online"
 			},
 			{
@@ -76,6 +76,10 @@
 			{
 				"server_id": "45.159.7.40:7877",
 				"name": "ATV RACE TRACK"
+			},
+			{
+				"server_id": "181.46.245.164:7779",
+				"name": "DeluxeGaming"
 			}
 		],
 		"banned_servers" : [
