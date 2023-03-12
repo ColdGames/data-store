@@ -84,6 +84,14 @@
 			{
 				"server_id": "85.190.157.24:7837",
 				"name": "Hunter Gaming Server"
+			},
+			{
+				"server_id": "104.15.4.95:27777",
+				"name": "RNN Subsistence 1"
+			},
+			{
+				"server_id": "104.15.4.95:28777",
+				"name": "RNN Subsistence 2"
 			}
 		],
 		"banned_servers" : [
