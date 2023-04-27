@@ -67,7 +67,11 @@
 			},
 			{
 				"server_id": "45.159.7.40:8037",
-				"name": "EU PVE ALL WELCOME"
+				"name": "EU PVE ALL WELCOME (easy)"
+			},
+			{
+				"server_id": "45.159.7.40:8057",
+				"name": "EU PVE ALL WELCOME (normal)"
 			},
 			{
 				"server_id": "85.190.156.11:7917",
