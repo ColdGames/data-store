@@ -88,6 +88,10 @@
 			{
 				"server_id": "104.15.4.95:28777",
 				"name": "RNN Subsistence 2"
+			},
+			{
+				"server_id": "172.96.160.206:7777",
+				"name": "L.R. G County"
 			}
 		],
 		"banned_servers" : [
