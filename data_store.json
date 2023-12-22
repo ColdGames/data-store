@@ -76,10 +76,6 @@
 			{
 				"server_id": "172.96.160.206:7777",
 				"name": "L.R. G County"
-			},
-			{
-				"server_id": "85.190.156.11:8137",
-				"name": "Hunter Gaming"
 			}
 		],
 		"banned_servers" : [
