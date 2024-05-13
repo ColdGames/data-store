@@ -76,6 +76,10 @@
 			{
 				"server_id": "85.190.156.11:8017",
 				"name": "Wild West Coast"
+			},
+			{
+				"server_id": "45.133.74.8:26745",
+				"name": "Survival Island PVE (GER-ENG-FR-ETC)"
 			}
 		],
 		"banned_servers" : [
