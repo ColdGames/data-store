@@ -46,8 +46,12 @@
 				"name": "GER-EU-DE Wings of Raven 24-7 Online"
 			},
 			{
-				"server_id": "201.178.253.255:7777",
-				"name": "UNIVERSO GAMING PVP/PVE"
+				"server_id": "201.178.252.240:7777",
+				"name": "UNIVERSO GAMING PVP"
+			},
+			{
+				"server_id": "190.192.109.60:7777",
+				"name": "UNIVERSO GAMING PVE"
 			},
 			{
 				"server_id": "109.230.243.48:8177",
