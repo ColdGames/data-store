@@ -76,6 +76,10 @@
 			{
 				"server_id": "149.56.244.165:7777",
 				"name": "Survival Fortress PVE"
+			},
+			{
+				"server_id": "51.161.198.159:10575",
+				"name": "Aussie Paradise Hardcore"
 			}
 		],
 		"banned_servers" : [
