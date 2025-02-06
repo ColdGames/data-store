@@ -80,6 +80,10 @@
 			{
 				"server_id": "51.161.198.159:10575",
 				"name": "Aussie Paradise Hardcore"
+			},
+			{
+				"server_id": "51.161.198.159:25429",
+				"name": "Aussie Paradise Easy"
 			}
 		],
 		"banned_servers" : [
