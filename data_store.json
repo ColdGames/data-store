@@ -84,6 +84,10 @@
 			{
 				"server_id": "51.161.198.159:7777",
 				"name": "Aussie Paradise Easy"
+			},
+			{
+				"server_id": "24.134.242.69:4444",
+				"name": "Wings of Raven"
 			}
 		],
 		"banned_servers" : [
