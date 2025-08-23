@@ -6,7 +6,7 @@
 				"name": "US West #1"
 			},
 			{
-				"server_id": "85.190.157.24:7797",
+				"server_id": "85.190.157.24:7857",
 				"name": "US West #2"
 			},
 			{
@@ -102,3 +102,4 @@
 		"web_url": "https://nitra.do/subsistence"
 	}
 }
+
