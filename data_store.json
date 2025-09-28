@@ -62,8 +62,8 @@
 				"name": "L.R. G County"
 			},
 			{
-				"server_id": "85.190.157.24:8237",
-				"name": "Wild West Coast"
+				"server_id": "194.15.36.225:26900",
+				"name": "Survival Island PVP"
 			},
 			{
 				"server_id": "194.15.36.225:26700",
@@ -102,4 +102,5 @@
 		"web_url": "https://nitra.do/subsistence"
 	}
 }
+
 
