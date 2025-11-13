@@ -84,6 +84,10 @@
 			{
 				"server_id": "24.134.242.69:4444",
 				"name": "Wings of Raven"
+			},
+			{
+				"server_id": "192.169.81.194:7877",
+				"name": "NoSafeWord"
 			}
 		],
 		"banned_servers" : [
@@ -98,6 +102,7 @@
 		"web_url": "https://nitra.do/subsistence"
 	}
 }
+
 
 
 
