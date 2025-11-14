@@ -88,6 +88,10 @@
 			{
 				"server_id": "192.169.81.194:7877",
 				"name": "NoSafeWord"
+			},
+			{
+				"server_id": "192.169.81.194:7887",
+				"name": "NoSafeWord HC"
 			}
 		],
 		"banned_servers" : [
@@ -102,6 +106,7 @@
 		"web_url": "https://nitra.do/subsistence"
 	}
 }
+
 
 
 
