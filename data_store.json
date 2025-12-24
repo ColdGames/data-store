@@ -58,7 +58,7 @@
 				"name": "RNN Subsistence 2"
 			},
 			{
-				"server_id": "172.240.21.196:7777",
+				"server_id": "172.240.229.69:7777",
 				"name": "L.R. G County"
 			},
 			{
@@ -106,6 +106,7 @@
 		"web_url": "https://nitra.do/subsistence"
 	}
 }
+
 
 
 
