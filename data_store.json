@@ -88,6 +88,10 @@
 			{
 				"server_id": "192.169.81.58:7877",
 				"name": "Primal Rage Wipes"
+			},
+			{
+				"server_id": "46.251.235.167:8077",
+				"name": "EU PVE ALL WELCOME"
 			}
 		],
 		"banned_servers" : [
